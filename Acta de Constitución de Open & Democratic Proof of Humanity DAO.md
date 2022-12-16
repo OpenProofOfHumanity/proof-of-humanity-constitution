@@ -39,12 +39,12 @@ Artículo 4: Los canales de comunicación oficiales son:
     d) Telegram Español:@proofofhumanityDAOes
     e) Telegram Gobernanza Global: @govpoh
     f) Telegram Gobernanza Español: @gobpoh
-    g) Telegram Mission Board: 
-    h) Discord: 
+    g) Telegram Mission Board:
+    h) Discord:
     i) Foro de Gobernanza:
     j) Snapshot:
     k) Snapshot Mission Board:
-    
+
 #### II: REPRESENTACIÓN
 
 Artículo 5: La DAO está representada por sus integrantes y por el Mission Board (MB de ahora en adelante). Los miembros del MB pueden hablar públicamente en nombre de la DAO en canales oficiales y no oficiales.
@@ -53,7 +53,7 @@ Artículo 6: El MB estará conformado por 5 (cinco) miembros (número impar).
     a) Los integrantes del MB son integrantes de la DAO y por tanto humanos registrados.
     b) Los integrantes del MB deberán siempre participar en cualquier votación con el address que usaron en el registro.
     c) Los integrantes del MB tienen que contar con un nombre ENS establecido como primario en el address que usaron en el registro.
-    
+
 Artículo 7: El puesto de MB tiene una duración de 2 (dos) años a partir de la fecha de su elección.
 
 Artículo 8: El MB debe rendir cuentas a la DAO de forma mensual de las acciones realizadas por sus integrantes en este período de tiempo.
@@ -78,13 +78,13 @@ Artículo 14: La gobernanza se realizará mediante la presentación de "Human Im
     b) Las reglas para la realización de las votaciones quedarán definidas en la Política de Propuestas de Mejora.
     c) El MB contará con un Snapshot independiente para la ratificación de propuestas que así lo requieran.
 
-Artículo 15: El tipo de votación es 1 (un) voto por persona humana. Se utilizará también la democracia líquida de las delegaciones que estarán supeditadas a un cálculo cuadrático que dará el resultado de cuál será el poder de voto final del delegado. 
+Artículo 15: El tipo de votación es 1 (un) voto por persona humana. Se utilizará también la democracia líquida de las delegaciones que estarán supeditadas a un cálculo cuadrático que dará el resultado de cuál será el poder de voto final del delegado.
     a) El objetivo de las Delegaciones Cuadráticas es impedir la manipulación de la gobernanza mediante el farmeo de delegaciones y además, garantizar que la voz de las minorías esté representada.
     b) La formula de votaciones será 1p1v + sqrt(delegations).
 
 Artículo 16: Las HIPs pueden ser realizadas en el foro publico por cualquier persona humana que integre la DAO. Quien la realice será responsable de llevar la misma a discusión en los canales correspondientes  y de su divulgación.
 
-Artículo 17: Solo los integrantes del MB pueden agregar propuestas al Snapshot oficial. 
+Artículo 17: Solo los integrantes del MB pueden agregar propuestas al Snapshot oficial.
     a) Los miembros de la DAO deben elevar sus propuestas a cualquiera de los integrantes del MB y debe ser publicada en menos de 72h.
     b) De ser ignorada una solicitud de publicación sin una devolución de mejora u observación de la misma, o sin seguir los pasos expuestos en el punto "C", puede servir de precedente para una Moción de Censura del integrante del MB involucrado.
     c) En caso de que el MB requerido no pueda llevar a cabo el pedido por, debe realizar una publicación en el foro especificando quién se contactó para realizar la solicitud y cuál es el motivo por el cual no puede llevar a cabo la tarea, aceptándose "inconvenientes personales" como causa. En el mismo posteo del foro el solicitante puede responder y solicitarle a otro MB la tarea, quien en ese caso podrá contestar ahí mismo si puede realizarla o no.
@@ -96,7 +96,7 @@ Artículo 18: Las HIPs pueden ser vetadas por el MB antes de su aprobación.
 
 #### IV: TESORERÍA
 
-Artículo 19: La tesorería de la organización se debe ubicar en una Cartera Multisig y su address será publicada para garantizar transparencia. 
+Artículo 19: La tesorería de la organización se debe ubicar en una Cartera Multisig y su address será publicada para garantizar transparencia.
 
 Artículo 20: Se requerirá la firma de 4 (cuatro) de las personas que integran el MB para realizar cualquier trasacción con la multisig.
 
@@ -158,8 +158,8 @@ Artículo 30: Los Artículos 2, 5, 13, 15 y 19, así como todos los presentes en
 
 ### FIRMA DE LOS AUTORES
 
-> Texto a firmar: Líneas de 23 a 100
-> Hash Keccak-256: 21bb535b514cad58c577920d5bc3f2d80960c655c08ba73770eae00fdd3b70d4
+> Texto a firmar: Líneas de 23 a 129
+> Hash Keccak-256:
 
 Los AUTORES de este documento RATIFICAMOS el TEXTO CONSTITUCIONAL mediante nuestra FIRMA DIGITAL:
 
@@ -174,10 +174,3 @@ Los AUTORES de este documento RATIFICAMOS el TEXTO CONSTITUCIONAL mediante nuest
 ### RATIFICACIÓN
 
 De acuerdo con lo EXPRESADO y FIRMADO anteriormente, esta CONSTITUCIÓN queda APROBADA el día: [fecha larga] a las [hora corta] UTC. La Organización Autónoma Descentralizada Open & Democratic Proof of Humanity queda constituida a partir de este momento.
-
-
-
-
-
-
-
