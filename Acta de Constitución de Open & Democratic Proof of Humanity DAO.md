@@ -40,7 +40,7 @@ _Proponemos_
 
 **Artículo 3:** Los idiomas en los canales de comunicación oficiales y en las propuestas de gobernanza son Español e Inglés.
 
-**Artículo 4:** La DAO establecerá una ley que defina cuales son sus canales de comunicación y herramientas de gobernanza. A los fines del acto fundacional de esta DAO, se heredarán aquellos canales legitimados previo a la bifurcación y se utilizará proofofhumanity.eth como dominio principal para las herramientas y medios de la DAO.
+**Artículo 4:** La DAO establecerá una ley que defina cuales son sus canales de comunicación y herramientas de gobernanza. A los fines del acto fundacional de esta DAO, se heredarán aquellos canales legitimados previo a la bifurcación y se utilizará [proofofhumanity.eth](https://proofofhumanity.eth.limo) como dominio principal para las herramientas y medios de la DAO.
 
 ## <a name="representacion">II: Representación</a>
 
