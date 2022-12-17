@@ -32,18 +32,7 @@ Artículo 2: El tipo de organización es Organización Autónoma Descentralizada
 
 Artículo 3: Los idiomas en los canales de comunicación oficiales y en las propuestas de gobernanza son Español e Inglés.
 
-Artículo 4: Los canales de comunicación oficiales son:
-    a) Twitter Global: @pohdao
-    b) Twitter Español: @pohdaoes
-    c) Telegram Global: @proofofhumanityDAOen
-    d) Telegram Español:@proofofhumanityDAOes
-    e) Telegram Gobernanza Global: @govpoh
-    f) Telegram Gobernanza Español: @gobpoh
-    g) Telegram Mission Board:
-    h) Discord:
-    i) Foro de Gobernanza:
-    j) Snapshot:
-    k) Snapshot Mission Board:
+Artículo 4: La DAO establecerá una ley que defina cuales son sus canales de comunicación y herramientas de gobernanza. A los fines del acto fundacional de esta DAO, se heredarán aquellos canales legitimados previo a la bifurcación y se utilizará proofofhumanity.eth como dominio principal para legitimar herramientas y medios de la DAO.
 
 #### II: REPRESENTACIÓN
 
