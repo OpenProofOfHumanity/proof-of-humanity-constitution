@@ -2,7 +2,7 @@
 
 > Authors: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth\
 > Status: Ready for review\
-> Created: 2022-12-10\
+> Created: 2022-12-10
 
 ## Consideraciones Iniciales
 Este documento representa el Acta de Constitución de Open & Democratic Proof of Humanity como Organización Autónoma Descentralizada, DAO de ahora en adelante, que es su sigla en inglés. El mismo se dividirá en "secciones" que contienen a su vez "artículos" que recogerán el texto constitucional.
@@ -181,7 +181,7 @@ Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante
 
 > La recogida de firma se realizará siguiendo el formato siguiente: "autor: ciudad, fecha larga, firma digital"\
 > Texto a firmar: Líneas de 29 a 157 que contien los Artículos y las Disposiciones del texto constitucional\
-> Hash Keccak-256:\
+> Hash Keccak-256:
 
 ## Ratificación
 
