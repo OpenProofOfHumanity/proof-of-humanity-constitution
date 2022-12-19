@@ -1,7 +1,9 @@
 # Acta de Constitución de Open & Democratic Proof of Humanity DAO
 
 > Authors: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth
+
 > Status: Draft
+
 > Created: 2022-12-10
 
 ## Consideraciones Iniciales
@@ -85,12 +87,8 @@ _Proponemos:_
 **Artículo 16:** Las _HIP_ pueden ser publicadas en el _Foro de Gobernanza_ oficial por cualquier integrante la DAO. Sus autores serán responsables de su posterior discusión en los canales oficiales y su divulgación.
 
 **Artículo 17:** Solo los integrantes del MB pueden agregar propuestas al Snapshot o herramienta de gobernanza oficial.
-<<<<<<< HEAD
 
 1. Los integrantes de la _DAO_ deberán elevar sus propuestas a cualquiera de los integrantes del MB y estas deberán ser publicadas en la herramienta de gobernanza oficial en menos de 72 (setenta y dos) horas.
-=======
-1. Los integrantes de la DAO deberán elevar sus propuestas a cualquiera de los integrantes del MB y estas deberán ser publicadas en la herramienta de gobernanza oficial en menos de 72 (setenta y dos) horas.
->>>>>>> 5c680a8c3f17b054c436dc564970304392843b55
 2. En caso de que el integrante del MB requerido no pueda agregar la propuesta a la herramienta de gobernanza oficial, el mismo deberá realizar una publicación en el Foro de Gobernanza oficial especificando el solicitante y el motivo por el cual no puede acceder a la solicitud.
 3. En caso de que ocurra lo mencionado en el _Inciso 2_ los autores de la propuesta deberán contactar a otro integrante del MB.
 4. De ser ignorada una solicitud de publicación sin una devolución de mejora u observación de la misma o sin una justificación apropiada como establece el _inciso 2_ puede servir de precedente para una _Moción de Censura_ del integrante del MB involucrado.
@@ -123,13 +121,8 @@ _Proponemos:_
 
 **Artículo 27:** Mientras esté activo el _Estado de Excepción_ la DAO le otorgará poderes de emergencia al MB sobre la gobernanza y los canales de comunicación.
 
-<<<<<<< HEAD
 1. Las _HIP_ podrán ser aprobadas por mayoría de los integrantes del MB, sin ser llevada a votación pública.
 2. El MB no está obligado a publicar en el Snapshot propuestas de los integrantes de la _DAO_. Las cuales podrán ser pospuestas hasta que concluya el _Estado de Excepción_.
-=======
-1. Las _HIP_ podrán ser aprobadas por mayoría absoluta de las personas integrantes del MB, 3 (tres), sin ser llevada a votación pública.
-2. El MB no está obligado a publicar en el Snapshot propuestas de las personas humanas que integran la DAO, las cuales podrán ser pospuestas hasta que concluya el _Estado de Excepción_.
->>>>>>> 5c680a8c3f17b054c436dc564970304392843b55
 3. La moderación de los canales oficiales podrá ser ejercida por el MB de forma arbitraria para preservar la integridad de los mismos, así como el debate sano y constructivo.
 4. Se podrá posponer la realización del _Proceso de Selección_ de un integrante al MB para un puesto vacante e incluso designar un miembro transitorio de forma arbitraria hasta que concluya el _Estado de Excepción_, donde dicho puesto volverá a quedar vacante.
 
@@ -157,11 +150,7 @@ _Proponemos:_
 5. Se establecerá como MB transitorio a las personas humanas autoras de este texto constitucional y permanecerán en este puesto por un año (1) para luego dar inicio al _Proceso de Selección_.
 6. Como _Política de Propuestas de Mejora_ se establecerá de forma transitoria el texto de la [HIP-5 de PoH](https://snapshot.org/#/poh.eth/proposal/QmUfLcQ97KoiVk6v1Vx6tTrA6KqgMkRYiEEcEX9emV7oRn) hasta el momento en que sea publicado y ratificado una por parte de nuestra DAO.
 7. Como _Política de Registro_ se establecerá de forma transitoria la vigente en Proof of Humanity en el momento de ratificación de este documento.
-<<<<<<< HEAD
 8. A los fines del acto fundacional de esta DAO, se heredarán aquellos canales de comunicación legitimados previo a la bifurcación. Serán establecidos en el dominio principal de la DAO según establece el _Artículo 4_ del texto constitucional.
-=======
-8. A los fines del acto fundacional de esta DAO, se heredarán aquellos canales legitimados previo a la bifurcación
->>>>>>> 5c680a8c3f17b054c436dc564970304392843b55
 
 ## Disposiciones Finales
 
@@ -185,7 +174,9 @@ _Proponemos:_
 
 ## Firma de los Autores
 > La recogida de firma se realizará siguiendo el formato siguiente: "autor: ciudad, fecha larga, firma digital".
+
 > Texto a firmar: Líneas de 29 a 155 que contien los Artículos y las Disposiciones del texto constitucional.
+
 > Hash Keccak-256:
 
 Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante nuestra _Firma Digital_:
