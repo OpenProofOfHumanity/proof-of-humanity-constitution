@@ -1,8 +1,8 @@
 # Acta de Constitución de Open & Democratic Proof of Humanity DAO
 
-> Authors: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth
-> Status: Draft
-> Created: 2022-12-10
+> Authors: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth\
+> Status: Ready for review\
+> Created: 2022-12-10\
 
 ## Consideraciones Iniciales
 Este documento representa el Acta de Constitución de Open & Democratic Proof of Humanity como Organización Autónoma Descentralizada, DAO de ahora en adelante, que es su sigla en inglés. El mismo se dividirá en "secciones" que contienen a su vez "artículos" que recogerán el texto constitucional.
@@ -131,8 +131,8 @@ _Proponemos:_
 2. Deberán contener el identificador de _Enmienda_ como parte del título de la propuesta
 3. Una vez aprobada llevarán una numeración consecutiva que comenzará a partir del ordinal 1 (Primera).
 
-**Artículo 29:** Las _HIP_ identificadas como _Enmienda_ deberán ser llevadas a votación pública como establece la _Política de Propuestas de Mejora_, pero para su aprobación deberán obtener un apoyo del 80% (ochenta por ciento) de los votos y ser ratificadas por los 5 (cinco) integrantes del MB.
-1. De especificarse una regla de votación diferente en el texto del artículo a enmendar, se empleará la misma.
+**Artículo 29:** Las _HIP_ identificadas como _Enmienda_ deberán ser llevadas a votación pública como establece la _Política de Propuestas de Mejora_, pero para su aprobación deberán obtener un apoyo del 70% (setenta por ciento) de los votos y ser ratificadas por los 5 (cinco) integrantes del MB.
+1. De especificarse una regla de votación diferente en el texto del artículo a enmendar, se empleará la mencionada en el respectivo artículo.
 2. De encontrarse un puesto del MB vacante, se pospondrá a ratificación de la propuesta hasta que se cubra la vacancia.
 
 **Artículo 30:** Los Artículos 2, 5, 13, 15 (excepto _Inciso 2_) y 19, así como todos los presentes en esta sección no pueden ser enmendados.
@@ -170,9 +170,6 @@ _Proponemos:_
 * **ENS:** Nombre de Dominio empleado en Ethereum que se puede asociar a un address.
 
 ## Firma de los Autores
-> La recogida de firma se realizará siguiendo el formato siguiente: "autor: ciudad, fecha larga, firma digital"
-> Texto a firmar: Líneas de 29 a 155 que contien los Artículos y las Disposiciones del texto constitucional
-> Hash Keccak-256:
 
 Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante nuestra _Firma Digital_:
 
@@ -182,6 +179,9 @@ Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante
 * chuygarcia.eth:
 * lauraleticialopez.eth:
 
+> La recogida de firma se realizará siguiendo el formato siguiente: "autor: ciudad, fecha larga, firma digital"\
+> Texto a firmar: Líneas de 29 a 157 que contien los Artículos y las Disposiciones del texto constitucional\
+> Hash Keccak-256:\
 
 ## Ratificación
 
