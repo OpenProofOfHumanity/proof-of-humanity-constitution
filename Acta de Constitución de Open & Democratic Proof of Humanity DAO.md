@@ -1,9 +1,7 @@
 # Acta de Constitución de Open & Democratic Proof of Humanity DAO
 
 > Authors: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth
->
 > Status: Draft
->
 > Created: 2022-12-10
 
 ## Consideraciones Iniciales
@@ -158,7 +156,6 @@ _Proponemos:_
 2. Se publicará este documento en todos los canales de comunicación oficiales traducido a su idioma correspondiente.
 3. Se publicará este documento para ser ratificado públicamente en la herramienta de gobernanza Snapshot de la DAO. Para ello se utilizará votación pública como establece el _Artículo 15_ del texto constitucional sin emplearse la Democracia Líquida de las delegaciones, en dicha votación solo se empleará una única opción de voto que empleará el texto "Sign".
 
----
 
 ## Glosario
 * **PoH:** Proof of Humanity, proyecto del cual se bifurca ODPoH / DemPoH.
@@ -173,10 +170,8 @@ _Proponemos:_
 * **ENS:** Nombre de Dominio empleado en Ethereum que se puede asociar a un address.
 
 ## Firma de los Autores
-> La recogida de firma se realizará siguiendo el formato siguiente: "autor: ciudad, fecha larga, firma digital".
->
-> Texto a firmar: Líneas de 29 a 155 que contien los Artículos y las Disposiciones del texto constitucional.
->
+> La recogida de firma se realizará siguiendo el formato siguiente: "autor: ciudad, fecha larga, firma digital"
+> Texto a firmar: Líneas de 29 a 155 que contien los Artículos y las Disposiciones del texto constitucional
 > Hash Keccak-256:
 
 Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante nuestra _Firma Digital_:
