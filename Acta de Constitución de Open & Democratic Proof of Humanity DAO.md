@@ -1,9 +1,9 @@
 # Acta de Constitución de Open & Democratic Proof of Humanity DAO
 
 > Authors: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth
-
+>
 > Status: Draft
-
+>
 > Created: 2022-12-10
 
 ## Consideraciones Iniciales
@@ -91,7 +91,7 @@ _Proponemos:_
 1. Los integrantes de la _DAO_ deberán elevar sus propuestas a cualquiera de los integrantes del MB y estas deberán ser publicadas en la herramienta de gobernanza oficial en menos de 72 (setenta y dos) horas.
 2. En caso de que el integrante del MB requerido no pueda agregar la propuesta a la herramienta de gobernanza oficial, el mismo deberá realizar una publicación en el Foro de Gobernanza oficial especificando el solicitante y el motivo por el cual no puede acceder a la solicitud.
 3. En caso de que ocurra lo mencionado en el _Inciso 2_ los autores de la propuesta deberán contactar a otro integrante del MB.
-4. De ser ignorada una solicitud de publicación sin una devolución de mejora u observación de la misma o sin una justificación apropiada como establece el _inciso 2_ puede servir de precedente para una _Moción de Censura_ del integrante del MB involucrado.
+4. De ser ignorada una solicitud de publicación sin una devolución de mejora u observación de la misma o sin una justificación apropiada como establece el _Inciso 2_ puede servir de precedente para una _Moción de Censura_ del integrante del MB involucrado.
 
 **Artículo 18:** Las HIPs pueden ser vetadas por el MB antes de su aprobación.
 
@@ -174,9 +174,9 @@ _Proponemos:_
 
 ## Firma de los Autores
 > La recogida de firma se realizará siguiendo el formato siguiente: "autor: ciudad, fecha larga, firma digital".
-
+>
 > Texto a firmar: Líneas de 29 a 155 que contien los Artículos y las Disposiciones del texto constitucional.
-
+>
 > Hash Keccak-256:
 
 Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante nuestra _Firma Digital_:
