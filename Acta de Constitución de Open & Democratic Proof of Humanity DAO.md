@@ -35,7 +35,7 @@ _Proponemos:_
 
 1. Se consideran integrantes de la misma a todas las personas humanas registradas.
 2. Pueden participar en gobernanza los integrantes de la _DAO_ que hayan aceptado esta constitución.
-3. La propiedad de la DAO es pública y pertenece a cada persona que integra este protocolo.
+3. La propiedad de la DAO es común y pertenece a cada persona que integra este protocolo.
 4. Los canales de comunicación oficiales pertenecen a la _DAO_.
 
 **Artículo 3:** Los idiomas en los canales de comunicación oficiales y en las propuestas de gobernanza son Español e Inglés.
