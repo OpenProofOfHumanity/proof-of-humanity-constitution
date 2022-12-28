@@ -4,7 +4,32 @@
 > Status: Ready for review\
 > Created: 2022-12-10
 
+## Préambulo
+
+Proof of Humanity se constituirá como un protocolo que aspira al reconocimiento como un [Estado en Red](https://thenetworkstate.com/the-network-state-in-one-sentence#:~:text=A%20network%20state%20is%20a,recognition%20from%20pre%2Dexisting%20states.) que se regirá por los siguientes principios,
+
+1. Respeto a la Tierra y a todos los seres vivos: Reconociendo que la Tierra es un sistema finito e interconectado, debemos priorizar el bienestar y la supervivencia de todos los seres vivos, incluidos los humanos.
+
+2. Sostenibilidad: Debemos priorizar el uso de los recursos de forma que se asegure su disponibilidad para las generaciones futuras. Esto incluye reducir nuestra huella de carbono y preservar los hábitats naturales.
+
+3. Equidad: Todas las personas, independientemente de su estatus socioeconómico, raza, género o ubicación, deben tener acceso a los recursos y oportunidades necesarios para una vida saludable y satisfactoria.
+
+4. Diversidad: Reconociendo que la diversidad es una fortaleza, debemos priorizar la protección y celebración de todas las culturas, idiomas y formas de vida.
+
+5. Colaboración: debemos trabajar juntos, a través de fronteras y sectores, para abordar los desafíos globales y lograr objetivos comunes.
+
+6. Educación: La educación es clave para empoderar a las personas para que tomen decisiones informadas y actúen para crear un cambio positivo.
+
+7. Innovación: Debemos buscar constantemente formas nuevas e innovadoras para resolver problemas y mejorar nuestra forma de vida.
+
+8. Adaptabilidad: debemos estar dispuestos a adaptarnos y evolucionar en respuesta a las circunstancias cambiantes y la nueva información.
+
+9. Responsabilidad: Debemos asumir la responsabilidad de nuestras acciones y su impacto en el planeta y sus habitantes.
+
+10. Compasión: debemos priorizar la empatía y la compasión por nosotros mismos y los demás en todas nuestras acciones y decisiones.
+
 ## Consideraciones Iniciales
+
 Este documento representa el Acta de Constitución de Open & Democratic Proof of Humanity como Organización Autónoma Descentralizada, DAO de ahora en adelante, que es su sigla en inglés. El mismo se dividirá en "secciones" que contienen a su vez "artículos" que recogerán el texto constitucional.
 
 El texto constitucional describe los fundamentos básicos para crear un marco legal de operación de la DAO desde el punto de vista organizacional y administrativo. No se describe el funcionamiento técnico del proyecto asociado a la DAO.
@@ -40,7 +65,7 @@ _Proponemos:_
 
 **Artículo 3:** Los idiomas en los canales de comunicación oficiales y en las propuestas de gobernanza son Español e Inglés.
 
-**Artículo 4:** La _DAO_ establece [proofofhumanity.eth](https://proofofhumanity.eth.limo) como dominio principal para las herramientas y medios de la DAO. En el mismo se establecen los canales de comunicación oficial.
+**Artículo 4:** La _DAO_ establece [proofofhumanity.eth](https://proofofhumanity.eth.limo) como dominio principal para las herramientas y medios de la DAO. En el mismo se establecen los canales de comunicación oficial. Serán priorizaran las herramientas que permitan una administración decentralizada como los principales recursos de la DAO.
 
 ## <a name="representacion">II: Representación</a>
 
