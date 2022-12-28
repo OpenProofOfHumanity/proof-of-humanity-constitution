@@ -65,7 +65,7 @@ _Proponemos:_
 
 **Artículo 3:** Los idiomas en los canales de comunicación oficiales y en las propuestas de gobernanza son Español e Inglés.
 
-**Artículo 4:** La _DAO_ establece [proofofhumanity.eth](https://proofofhumanity.eth.limo) como dominio principal para las herramientas y medios de la DAO. En el mismo se establecen los canales de comunicación oficial. Serán priorizaran las herramientas que permitan una administración decentralizada como los principales recursos de la DAO.
+**Artículo 4:** La _DAO_ establece [proofofhumanity.eth](https://proofofhumanity.eth.limo) como dominio principal para las herramientas y medios de la DAO. En el mismo se establecen los canales de gobernanza oficiales. Se priorizaran las herramientas que permitan una administración decentralizada como los principales recursos de la DAO.
 
 ## <a name="representacion">II: Representación</a>
 
