@@ -1,6 +1,6 @@
 # Acta de Constitución de Open & Democratic Proof of Humanity DAO
 
-> Authors: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth\, jocha.eth, 
+> Authors: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth, jocha.eth\
 > Status: Ready for review\
 > Created: 2022-12-10
 
@@ -14,9 +14,9 @@ Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada O
 
 **Artículo 1:** Proof of Humanity Open & Democratic es una DAO que tiene como fines principales: 
 
-Inc. a. Garantizar la Identidad auto-soberana entendida como el Derecho Humano a una identidad más allá de los Estados-nación, protegiéndola frente a ataques sybil, 
+1. Garantizar la Identidad auto-soberana entendida como el Derecho Humano a una identidad más allá de los Estados-nación, protegiéndola frente a ataques sybil, 
 
-Inc b. Erradicar la pobreza, por medio del ingreso básico universal (UBI).
+2. Erradicar la pobreza, por medio del ingreso básico universal (UBI).
 
 **Artículo 2:** Para la consecución de estos fines, Proof of Humanity Open & Democratic, se constituye como una DAO que gobierna a un protocolo criptográfico de código abierto, descentralizado, transparente, abierto y democrático. 
 
@@ -28,44 +28,43 @@ Inc b. Erradicar la pobreza, por medio del ingreso básico universal (UBI).
 
 **Artículo 4:** Para el cumplimiento de sus fines, la DAO se rige por los siguientes Principios y Derechos Humanos: 
 
-Inc. 1. Respeto a la Tierra y a todos los seres vivos: Reconociendo que la Tierra es un sistema finito e interconectado, debemos priorizar el bienestar y la supervivencia de todos los seres vivos, incluidos los humanos. 
+1. Respeto a la Tierra y a todos los seres vivos: Reconociendo que la Tierra es un sistema finito e interconectado, debemos priorizar el bienestar y la supervivencia de todos los seres vivos, incluidos los humanos. 
 
-Inc. 2. Identidad: los seres humanos tienen derecho a que se protejan y reconozcan los datos biológicos, tecnológicos y culturales que permiten su individualización como sujetos en la sociedad y el ciberespacio, y a no ser privados de los mismos. Este derecho incluye el Derecho a la Identidad auto-soberana entendida como el Derecho Humano a una identidad más allá de los Estados-nación,
+2. Identidad: los seres humanos tienen derecho a que se protejan y reconozcan los datos biológicos, tecnológicos y culturales que permiten su individualización como sujetos en la sociedad y el ciberespacio, y a no ser privados de los mismos. Este derecho incluye el Derecho a la Identidad auto-soberana entendida como el Derecho Humano a una identidad más allá de los Estados-nación,
 
-Inc. 3. Neuro-derechos: los humanos tienen derecho a la protección de su integridad e  indemnidad mental frente a los avances y capacidades desarrolladas por las neurotecnologías y la inteligencia artificial. 
+3. Neuro-derechos: los humanos tienen derecho a la protección de su integridad e  indemnidad mental frente a los avances y capacidades desarrolladas por las neurotecnologías y la inteligencia artificial. 
 
-Inc. 4. Privacidad: los seres humanos tienen derecho a la protección de sus datos personales, resguardado especialmente sus datos biométricos, y garantizandose de que no serán objeto de injerencias ilegales o arbitrarias, concernientes a su vida privada, a su familia, a sus comunicaciones, a su domicilio o direcciones del mundo tangible o digitales, abarcando direcciones criptográficas. El derecho a la privacidad debe ser especialmente protegido en el ciberespacio, pudiendo usarse libremente tecnologías como la criptografía. 
+4. Privacidad: los seres humanos tienen derecho a la protección de sus datos personales, resguardado especialmente sus datos biométricos, y garantizandose de que no serán objeto de injerencias ilegales o arbitrarias, concernientes a su vida privada, a su familia, a sus comunicaciones, a su domicilio o direcciones del mundo tangible o digitales, abarcando direcciones criptográficas. El derecho a la privacidad debe ser especialmente protegido en el ciberespacio, pudiendo usarse libremente tecnologías como la criptografía. 
 
-Inc. 5. Propiedad: toda persona humana tiene derecho al uso y goce de sus bienes tangibles e intangibles.  
+5. Propiedad: toda persona humana tiene derecho al uso y goce de sus bienes tangibles e intangibles.  
 
-Inc. 6. Libertad: el ser humano es libre por naturaleza. Debemos respetar su libertad en todas sus acepciones: de pensamiento, política, de expresión, de empresa, de culto y de locomoción, entre otras. 
+6. Libertad: el ser humano es libre por naturaleza. Debemos respetar su libertad en todas sus acepciones: de pensamiento, política, de expresión, de empresa, de culto y de locomoción, entre otras. 
 
-Inc. 7. Igualdad: Todos los seres humanos son iguales en dignidad y derechos. En lo atinente a la DAO, los humanos registrados son iguales ante sus leyes y no se admitirá ningún tipo de discriminación, ya sea por acción u omisión, por motivos tales como raza, religión, nacionalidad, ideología, opinión política o gremial, género, orientación sexual, posición económica, condición social o caracteres físicos. 
+7. Igualdad: Todos los seres humanos son iguales en dignidad y derechos. En lo atinente a la DAO, los humanos registrados son iguales ante sus leyes y no se admitirá ningún tipo de discriminación, ya sea por acción u omisión, por motivos tales como raza, religión, nacionalidad, ideología, opinión política o gremial, género, orientación sexual, posición económica, condición social o caracteres físicos. 
 
-Inc. 8. Equidad: Todas las personas humanas, independientemente de su estatus socioeconómico, raza, género o nacionalidad, deben tener acceso a los recursos y oportunidades necesarios para una vida saludable y satisfactoria en igualdad de oportunidades. Se prestará especial protección a las minorias historicamente desfavorecidas. Se asegurará el derecho al Ingreso Básico Universal de todos los humanos registrados para el cumplimiento de estos fines. 
+8. Equidad: Todas las personas humanas, independientemente de su estatus socioeconómico, raza, género o nacionalidad, deben tener acceso a los recursos y oportunidades necesarios para una vida saludable y satisfactoria en igualdad de oportunidades. Se prestará especial protección a las minorias historicamente desfavorecidas. Se asegurará el derecho al Ingreso Básico Universal de todos los humanos registrados para el cumplimiento de estos fines. 
 
-Inc. 9. Democracia: los humanos registrados de la DAO tienen derecho al voto en las Propuestas de mejora (HIP), para ayudar a mejorar los parámetros del protocolo y su política legal. Las votación se hará a través del voto directo o de la delegación poder en personas de tu confianza.
+9. Democracia: los humanos registrados de la DAO tienen derecho al voto en las Propuestas de mejora (HIP), para ayudar a mejorar los parámetros del protocolo y su política legal. Las votación se hará a través del voto directo o de la delegación poder en personas de tu confianza.
 
-Inc. 10. Justicia: los conflictos que se generen entre los miembros serán resueltos por un tercero imparcial que resolverá según las normas de la DAO, teniendo en cuenta los fines, principios y Derechos Humanos que en ésta se reconocen. 
+10. Justicia: los conflictos que se generen entre los miembros serán resueltos por un tercero imparcial que resolverá según las normas de la DAO, teniendo en cuenta los fines, principios y Derechos Humanos que en ésta se reconocen. 
 
-Inc. 11. Sostenibilidad: Los seres humanos debemos priorizar el uso de los recursos de forma que se asegure su disponibilidad para las generaciones futuras. Esto incluye reducir nuestra huella de carbono y preservar los hábitats naturales.
+11. Sostenibilidad: Los seres humanos debemos priorizar el uso de los recursos de forma que se asegure su disponibilidad para las generaciones futuras. Esto incluye reducir nuestra huella de carbono y preservar los hábitats naturales.
 
+12. Diversidad: Reconociendo que la diversidad es una fortaleza para una DAO, debemos priorizar la protección y celebración de todas las culturas, idiomas y formas de vida.
 
-Inc. 12. Diversidad: Reconociendo que la diversidad es una fortaleza para una DAO, debemos priorizar la protección y celebración de todas las culturas, idiomas y formas de vida.
+13. Colaboración: debemos trabajar juntos para abordar los desafíos globales y lograr objetivos comunes de la humanidad. 
 
-Inc. 14. Colaboración: debemos trabajar juntos para abordar los desafíos globales y lograr objetivos comunes de la humanidad. 
+14. Educación: La educación es clave para empoderar a las personas para que tomen decisiones libres e informadas y actúen para crear un cambio positivo.
 
-Inc. 15. Educación: La educación es clave para empoderar a las personas para que tomen decisiones libres e informadas y actúen para crear un cambio positivo.
+15. Innovación: Debemos buscar constantemente formas nuevas e innovadoras para resolver problemas y mejorar nuestra forma de vida y la armonía general de la DAO. 
 
-Inc. 16. Innovación: Debemos buscar constantemente formas nuevas e innovadoras para resolver problemas y mejorar nuestra forma de vida y la armonía general de la DAO. 
+16. Adaptabilidad: debemos estar dispuestos a adaptarnos y evolucionar en respuesta a las circunstancias cambiantes, nuevas tecnologías e información.
 
-Inc. 17. Adaptabilidad: debemos estar dispuestos a adaptarnos y evolucionar en respuesta a las circunstancias cambiantes, nuevas tecnologías e información.
+17. Responsabilidad: Debemos asumir la responsabilidad de nuestras acciones y su impacto en la DAO, el planeta y sus habitantes.
 
-Inc. 19. Responsabilidad: Debemos asumir la responsabilidad de nuestras acciones y su impacto en la DAO, el planeta y sus habitantes.
+18. Compasión: debemos priorizar la empatía y la compasión por nosotros mismos y los demás en todas nuestras acciones y decisiones.
 
-Inc. 20. Compasión: debemos priorizar la empatía y la compasión por nosotros mismos y los demás en todas nuestras acciones y decisiones.
-
-Inc. 21. Derecho al libre acceso a internet y a la criptografía. Los seres humanos tienen derecho a acceder libremente a internet y a usar criptografía. Se reconoce la neutralidad de las mismas.
+19. Derecho al libre acceso a internet y a la criptografía. Los seres humanos tienen derecho a acceder libremente a internet y a usar criptografía. Se reconoce la neutralidad de las mismas.
 
 ## Segunda parte. Secciones.
 - [I. Organización](#organizacion)
@@ -175,6 +174,7 @@ Inc. 21. Derecho al libre acceso a internet y a la criptografía. Los seres huma
 2. El MB no está obligado a publicar en el Snapshot propuestas de los integrantes de la _DAO_. Las cuales podrán ser pospuestas hasta que concluya el _Estado de Excepción_.
 3. La moderación de los canales oficiales podrá ser ejercida por el MB de forma arbitraria para preservar la integridad de los mismos, así como el debate sano y constructivo.
 4. Se podrá posponer la realización del _Proceso de Selección_ de un integrante al MB para un puesto vacante e incluso designar un miembro transitorio de forma arbitraria hasta que concluya el _Estado de Excepción_, donde dicho puesto volverá a quedar vacante.
+5. Queda suspendida la realización de _Mociónes de Censura por parte de la comunidad_ mientras se mantenga el _Estado de Excepción_.
 
 ## <a name="reformas">VI: Reformas Constitucionales</a>
 
@@ -193,11 +193,11 @@ Inc. 21. Derecho al libre acceso a internet y a la criptografía. Los seres huma
 
 ## Disposiciones Transitorias
 
-1. Serán heredadas las _HIP_ aprobadas en PoH anteriores a la fecha de votación del [fork acordado en la HIP 74 inclusive](https://snapshot.org/#/poh.eth/proposal/0xe23fa2fc78fe95c9b904e6197eb88135dff859956f4474d13f5c622ec2188da5) y serán seleccionadas y ratificadas por el MB antes de considerarse su validez. Las mismas serán sustituidas por políticas apropiadas dentro de los 6 meses posteriores.
+1. Serán heredadas las _HIP_ aprobadas en PoH anteriores a la fecha de votación del [fork acordado en la HIP 74](https://snapshot.org/#/poh.eth/proposal/0xe23fa2fc78fe95c9b904e6197eb88135dff859956f4474d13f5c622ec2188da5) y serán seleccionadas y ratificadas por el MB antes de considerarse su validez. Las mismas serán sustituidas por políticas apropiadas dentro de los 6 meses posteriores.
 2. No serán heredadas las _HIP_ que afecten la Gobernanza, Canales de Comunicación, Tesorería, Organización o Representación de la DAO, tampoco así las que entren en contradicción con este documento.
 3. La DAO estará en Estado de Excepción durante los 6 meses posteriores a la fecha de creada siendo no revocable dicho estado.
 4. Se comenzará la implementación y entrega gradual de la moderación de canales oficiales a GravityDAO para garantizar imparcialidad y justicia en la DAO.
-5. Se establecerá como MB transitorio a las personas humanas autoras de este texto constitucional y permanecerán en este puesto por un año (1) para luego dar inicio al _Proceso de Selección_.
+5. Se establecerá como MB transitorio a los primeros 5 (cinco) autores de este texto constitucional y permanecerán en este puesto por un año (1) para luego dar inicio al _Proceso de Selección_.
 6. Como _Política de Propuestas de Mejora_ se establecerá de forma transitoria el texto de la [HIP-5 de PoH](https://snapshot.org/#/poh.eth/proposal/QmUfLcQ97KoiVk6v1Vx6tTrA6KqgMkRYiEEcEX9emV7oRn) hasta el momento en que sea publicado y ratificado una por parte de nuestra DAO.
 7. Como _Política de Registro_ se establecerá de forma transitoria la vigente en Proof of Humanity en el momento de ratificación de este documento.
 8. A los fines del acto fundacional de esta DAO, se heredarán aquellos canales de comunicación legitimados previo a la bifurcación. Serán establecidos en el dominio principal de la DAO según establece el _Artículo 4_ del texto constitucional.
@@ -230,6 +230,7 @@ Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante
 * ludoviko.eth:
 * chuygarcia.eth:
 * lauraleticialopez.eth:
+* jocha.eth:
 
 > La recogida de firma se realizará siguiendo el formato siguiente: "autor: ciudad, fecha larga, firma digital"\
 > Texto a firmar: Líneas de 29 a 157 que contien los Artículos y las Disposiciones del texto constitucional\
