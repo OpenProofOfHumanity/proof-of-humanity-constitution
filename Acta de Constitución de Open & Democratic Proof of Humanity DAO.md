@@ -8,7 +8,7 @@
 
 Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada Open & Democratic Proof of Humanity, reunidos en Foro General Constituyente, reconociendo la dignidad  y los Derechos inherentes de todos los Seres Humanos, con los objetivos de: constituir una DAO democrática y abierta, consolidar la paz entre sus miembros, asegurar el Derecho a la Identidad de la humanidad, afianzar la justicia, garantizar la igualdad formal y material, promover el bienestar general de la humanidad a través del Ingreso Básico Universal (UBI), proteger la privacidad de los humanos, y afianzar los beneficios de la libertad, para nosotros, para nuestra posteridad, para todos los humanos del mundo que deseen Integrar esta DAO y el Estado en Red que de esta derive, ordenamos, decretamos y establecemos esta Constitución.
 
-## Primera Parte. Fines, Declaraciones, Principios y Derechos Humanos. 
+## Primera Parte. Fines, Declaraciones, Principios y Derechos Humanos:
 
 ## Fines:
 
