@@ -20,7 +20,7 @@ Inc b. Erradicar la pobreza, por medio del ingreso básico universal (UBI).
 
 **Artículo 2:** Para la consecución de estos fines, Proof of Humanity Open & Democratic, se constituye como una DAO que gobierna a un protocolo criptográfico de código abierto, descentralizado, transparente, abierto y democrático. 
 
-**Artículo 3:** Proof of Humanity aspira al reconocimiento como un Estado en Red. 
+**Artículo 3:** Proof of Humanity aspira al reconocimiento como un [Estado en Red](https://thenetworkstate.com/the-network-state-in-one-sentence#:~:text=A%20network%20state%20is%20a,recognition%20from%20pre%2Dexisting%20states.).
 
 
 
