@@ -1,36 +1,34 @@
 # Acta de Constitución de Open & Democratic Proof of Humanity DAO
 
-> Authors: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth, jocha.eth\
-> Status: Ready for review\
-> Created: 2022-12-10
+> Autores: drlorente97.eth, santi.eth, ludoviko.eth, chuygarcia.eth, lauraleticialopez.eth, jocha.eth\
+> Estado: Ready for review\
+> Fecha de Creación: 2022-12-10
 
 ## Préambulo
 
-Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada Open & Democratic Proof of Humanity, reunidos en Foro General Constituyente, reconociendo la dignidad  y los Derechos inherentes de todos los Seres Humanos, con los objetivos de: constituir una DAO democrática y abierta, consolidar la paz entre sus miembros, asegurar el Derecho a la Identidad de la humanidad, afianzar la justicia, garantizar la igualdad formal y material, promover el bienestar general de la humanidad a través del Ingreso Básico Universal (UBI), proteger la privacidad de los humanos, y afianzar los beneficios de la libertad, para nosotros, para nuestra posteridad, para todos los humanos del mundo que deseen Integrar esta DAO y el Estado en Red que de esta derive, ordenamos, decretamos y establecemos esta Constitución.
+Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada Open & Democratic Proof of Humanity, reunidos en Foro General Constituyente, reconociendo la dignidad y los Derechos inherentes de todos los Seres Humanos, con los objetivos de: constituir una DAO democrática y abierta, consolidar la paz entre sus miembros, asegurar el Derecho a la Identidad de la humanidad, afianzar la justicia, garantizar la igualdad formal y material, promover el bienestar general de la humanidad a través del Ingreso Básico Universal (UBI), proteger la privacidad de los humanos, y afianzar los beneficios de la libertad, para nosotros, para nuestra posteridad, para todos los humanos del mundo que deseen integrar esta DAO y el Estado en Red que de esta derive, ordenamos, decretamos y establecemos esta Constitución:
 
-## Primera Parte. Fines, Declaraciones, Principios y Derechos Humanos:
+## Primera Parte - Misión y Visión:
 
-## Fines:
+**Artículo 1:** Open & Democratic Proof of Humanity es una organización que tiene como misión principal: 
 
-**Artículo 1:** Proof of Humanity Open & Democratic es una DAO que tiene como fines principales: 
+1. Garantizar la identidad auto-soberana, entendida como el Derecho Humano a una identidad más allá de los Estados-nación, protegiéndola frente a ataques sybil.
 
-1. Garantizar la Identidad auto-soberana entendida como el Derecho Humano a una identidad más allá de los Estados-nación, protegiéndola frente a ataques sybil, 
+2. Erradicar la pobreza, por medio del Ingreso Básico Universal (UBI).
 
-2. Erradicar la pobreza, por medio del ingreso básico universal (UBI).
+**Artículo 2:** Para la consecución de esta misión, Open & Democratic Proof of Humanity, se constituye como una DAO que gobierna a un protocolo criptográfico de código abierto, descentralizado, transparente y democrático. 
 
-**Artículo 2:** Para la consecución de estos fines, Proof of Humanity Open & Democratic, se constituye como una DAO que gobierna a un protocolo criptográfico de código abierto, descentralizado, transparente, abierto y democrático. 
-
-**Artículo 3:** Proof of Humanity aspira al reconocimiento como un [Estado en Red](https://thenetworkstate.com/the-network-state-in-one-sentence#:~:text=A%20network%20state%20is%20a,recognition%20from%20pre%2Dexisting%20states.).
+**Artículo 3:** Proof of Humanity tiene como visión el reconocimiento como un [Estado en Red](https://thenetworkstate.com/the-network-state-in-one-sentence#:~:text=A%20network%20state%20is%20a,recognition%20from%20pre%2Dexisting%20states.) y es allí a donde se dirigirán los esfuerzos de los integrantes de la organización.
 
 
 
-## Declaraciones, Principios y Derechos Humanos: 
+## Segunda Parte - Declaraciones, Principios y Derechos Humanos: 
 
-**Artículo 4:** Para el cumplimiento de sus fines, la DAO se rige por los siguientes Principios y Derechos Humanos: 
+**Artículo 4:** Para el cumplimiento de la Misión y Visión de esta organización, Declaramos los siguientes Principios y Derechos Humanos, los cuales son inalienables de cada ser humano y regirán el accionar de la misma: 
 
 1. Respeto a la Tierra y a todos los seres vivos: Reconociendo que la Tierra es un sistema finito e interconectado, debemos priorizar el bienestar y la supervivencia de todos los seres vivos, incluidos los humanos. 
 
-2. Identidad: los seres humanos tienen derecho a que se protejan y reconozcan los datos biológicos, tecnológicos y culturales que permiten su individualización como sujetos en la sociedad y el ciberespacio, y a no ser privados de los mismos. Este derecho incluye el Derecho a la Identidad auto-soberana entendida como el Derecho Humano a una identidad más allá de los Estados-nación,
+2. Identidad: los seres humanos tienen derecho a que se protejan y reconozcan los datos biológicos, tecnológicos y culturales que permiten su individualización como sujetos en la sociedad y el ciberespacio, y a no ser privados de los mismos. Este derecho incluye el Derecho a la Identidad auto-soberana entendida como el Derecho Humano a una identidad más allá de los Estados-nación.
 
 3. Neuro-derechos: los humanos tienen derecho a la protección de su integridad e  indemnidad mental frente a los avances y capacidades desarrolladas por las neurotecnologías y la inteligencia artificial. 
 
@@ -66,30 +64,29 @@ Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada O
 
 19. Derecho al libre acceso a internet y a la criptografía. Los seres humanos tienen derecho a acceder libremente a internet y a usar criptografía. Se reconoce la neutralidad de las mismas.
 
-## Segunda parte. Secciones.
+## Tercera Parte - Cuerpo Legal:
+
 - [I. Organización](#organizacion)
 - [II. Representación](#representacion)
 - [III. Gobernanza](#gobernanza)
-- [IV. Tesoreria](#tesoreria)
+- [IV. Tesorería](#tesoreria)
 - [V. Estado de Excepción](#estado)
 - [VI. Reformas Constitucionales](#reformas)
 
----
+
+## <a name="organizacion">I: Organización </a>
 
 
-## <a name="organizacion">I: Organizción </a>
-
-
-**Artículo 5:** El nombre de esta organización es _Open & Democratic Proof of Humanity_ pudiendose representar el nombre de forma acortada como _Democratic Proof of Humanity_. Esta organización surge como bifurcación de Proof of Humanity DAO (PoH) de la cual se considera independiente y soberana.
+**Artículo 5:** El nombre oficial de esta organización es _Open & Democratic Proof of Humanity_. La misma surge como bifurcación de Proof of Humanity DAO de la cual se considera independiente y soberana.
 
 **Artículo 6:** El tipo de organización es _Organización Autónoma Descentralizada_ con todo lo que ello conlleva.
 
 1. Se consideran integrantes de la misma a todas las personas humanas registradas.
-2. Pueden participar en gobernanza los integrantes de la _DAO_ que hayan aceptado esta constitución.
+2. Pueden participar en gobernanza los integrantes de la _DAO_ que hayan aceptado esta Constitución.
 3. La propiedad de la DAO es común y pertenece a cada persona que integra este protocolo.
 4. Los canales de comunicación oficiales pertenecen a la _DAO_.
 
-**Artículo 7:** Los idiomas en los canales de comunicación oficiales y en las propuestas de gobernanza son Español e Inglés.
+**Artículo 7:** Los idiomas en los canales de comunicación oficiales y en las propuestas de gobernanza son Español e Inglés, pudiendo extenderse a otros idiomas de ser necesario.
 
 **Artículo 8:** La _DAO_ establece [proofofhumanity.eth](https://proofofhumanity.eth.limo) como dominio principal para las herramientas y medios de la DAO. En el mismo se establecen los canales de gobernanza oficiales. Se priorizaran las herramientas que permitan una administración decentralizada como los principales recursos de la DAO.
 
@@ -98,6 +95,7 @@ Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada O
 **Artículo 9:** La DAO está representada por sus integrantes y por el Mission Board (_MB_ de ahora en adelante). Los miembros del MB pueden hablar públicamente en nombre de la DAO en canales oficiales y no oficiales.
 
 **Artículo 10:** El MB estará conformado por 5 (cinco) miembros (número impar).
+
 1. Los integrantes del MB son integrantes de la DAO y por tanto humanos registrados.
 2. Los integrantes del MB deberán siempre utilizar su address registrada en cualquier acción de gobernanza.
 3. Los integrantes del MB tienen que contar con un nombre ENS establecido como primario en el address que usaron en el registro.
@@ -107,6 +105,7 @@ Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada O
 **Artículo 12:** El MB debe rendir cuentas a la DAO de forma mensual de las acciones realizadas por sus integrantes en este período de tiempo.
 
 **Artículo 13:** Un puesto de MB puede quedar vacante de tres formas:
+
 1. Por decisión propia, mediante la presentación de una _Carta de renuncia a la DAO_.
 2. Mediante la presentación de una _Moción de Censura por parte de la comunidad_ a la DAO. Esta debe ser llevada a votación pública, donde debe ser aprobada con un 60% (sesenta por ciento) de los votos totales y luego ser ratificada por al menos 2 (dos) MB.
 3. Mediante la presentación de una _Moción de Censura por parte del MB_ por parte de los otros 4 (cuatro) integrantes del MB siempre y cuando no haya un puesto vacante, en el caso de haberlo, se aceptará por parte de 3 MB (tres).
@@ -119,13 +118,13 @@ Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada O
 
 ## <a name="gobernanza"> III: Gobernanza</a>
 
-**Artículo 17:** El poder de gobernanza en la DAO emana de todos sus integrantes. Todas las personas humanas  tienen igual representación en la misma y el mismo derecho de ser escuchadas en el mismo espacio.
+**Artículo 17:** El poder de gobernanza en la DAO emana de todos sus integrantes. Todas las personas humanas tienen igual representación en la misma y el mismo derecho de ser escuchadas en el mismo espacio.
 
-**Artículo 18:** La gobernanza se realizará mediante la presentación de _Human Improvement Proposals_ (HIPs) en el Foro de Gobernanza con su posterior votación en utilizando la firma digital del Proof of Humanity de cada integrante y bajo las herramientas de gobernanza que utilizan su dominio (ej. Snapshot).
+**Artículo 18:** La gobernanza se realizará mediante la presentación de _Human Improvement Proposals_ (HIPs) en el Foro de Gobernanza con su posterior votación en utilizando la firma digital de cada integrante y bajo las herramientas de gobernanza que utilizan su dominio.
 
 1. Las _HIP_ deben cumplir los parámetros establecidos en la _Política de Propuestas de Mejora_.
 2. Las reglas para la realización de las votaciones quedarán definidas en la _Política de Propuestas de Mejora_.
-3. El MB contará con un Snapshot o herramienta de gobernanza independiente para la ratificación de propuestas que así lo requieran.
+3. El MB contará con una herramienta de gobernanza independiente para la ratificación de propuestas que así lo requieran.
 
 **Artículo 19:** El tipo de votación es 1 (un) voto por persona humana registrada.
 
@@ -135,7 +134,7 @@ Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada O
 
 **Artículo 20:** Las _HIP_ pueden ser publicadas en el _Foro de Gobernanza_ oficial por cualquier integrante la DAO. Sus autores serán responsables de su posterior discusión en los canales oficiales y su divulgación.
 
-**Artículo 21:** Solo los integrantes del MB pueden agregar propuestas al Snapshot o herramienta de gobernanza oficial.
+**Artículo 21:** Solo los integrantes del MB pueden agregar propuestas a la herramienta de gobernanza oficial.
 
 1. Los integrantes de la _DAO_ deberán elevar sus propuestas a cualquiera de los integrantes del MB y estas deberán ser publicadas en la herramienta de gobernanza oficial en menos de 72 (setenta y dos) horas.
 2. En caso de que el integrante del MB requerido no pueda agregar la propuesta a la herramienta de gobernanza oficial, el mismo deberá realizar una publicación en el Foro de Gobernanza oficial especificando el solicitante y el motivo por el cual no puede acceder a la solicitud.
@@ -179,11 +178,13 @@ Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada O
 ## <a name="reformas">VI: Reformas Constitucionales</a>
 
 **Artículo 32:** Las reformas al texto constitucional pueden realizarse mediante _Enmiendas_. Las mismas se definen como adiciones, sustituciones o sustraciones de parte del texto constitucional.
+
 1. Las _Enmiendas_ del texto constitucional se realizarán mediante _HIP_ siguiendo la _Política de Propuestas de Mejora_.
 2. Deberán contener el identificador de _Enmienda_ como parte del título de la propuesta
 3. Una vez aprobada llevarán una numeración consecutiva que comenzará a partir del ordinal 1 (Primera).
 
 **Artículo 33:** Las _HIP_ identificadas como _Enmienda_ deberán ser llevadas a votación pública como establece la _Política de Propuestas de Mejora_, pero para su aprobación deberán obtener un apoyo del 70% (setenta por ciento) de los votos y ser ratificadas por los 5 (cinco) integrantes del MB.
+
 1. De especificarse una regla de votación diferente en el texto del artículo a enmendar, se empleará la mencionada en el respectivo artículo.
 2. De encontrarse un puesto del MB vacante, se pospondrá a ratificación de la propuesta hasta que se cubra la vacancia.
 
@@ -206,24 +207,23 @@ Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada O
 
 1. Se considera extinto cualquier vínculo de gobernanza con Proof of Humanity DAO.
 2. Se publicará este documento en todos los canales de comunicación oficiales traducido a su idioma correspondiente.
-3. Se publicará este documento para ser ratificado públicamente en la herramienta de gobernanza Snapshot de la DAO. Para ello se utilizará votación pública como establece el _Artículo 15_ del texto constitucional sin emplearse la Democracia Líquida de las delegaciones, en dicha votación solo se empleará una única opción de voto que empleará el texto "Sign".
+3. Se publicará este documento para ser ratificado públicamente en la herramienta de gobernanza Snapshot de la DAO. Para ello se utilizará votación pública como establece el _Artículo 15_ del texto constitucional sin emplearse la democracia líquida de las delegaciones, en dicha votación solo se empleará una única opción de voto que empleará el texto "Sign".
 
 
 ## Glosario
 * **PoH:** Proof of Humanity, proyecto del cual se bifurca ODPoH / DemPoH.
 * **OpenPoH:** Open & Democratic Proof of Humanity, nuestra organización autónoma descentralizada.
-* **DemPoH:** Sinónimo de ODPoH u OpenPoH, Democratic Proof of Humanity.
 * **DAO:** Organización Autónoma Descentralizada
 * **MB:** Junta de Misión.
 * **Multisig:** Cartera multifirmas, requiere de un número específico de firmas para realizar cualquier trasacción.
 * **HIP:** Propuesta de Mejora de la Humanidad.
-* **GravityDAO:** Organización dedicada al manejo y moderación de conflictos en comunidades web3 ajena a PoH y los integrantes activos de su DAO.
+* **GravityDAO:** Organización dedicada al manejo y moderación de conflictos en comunidades Web3 ajena a PoH y los integrantes activos de su DAO.
 * **Address:** Se refiere a la dirección pública de Ethereum en el texto.
-* **ENS:** Nombre de Dominio empleado en Ethereum que se puede asociar a un address.
+* **ENS:** Nombre de Dominio empleado en Ethereum.
 
 ## Firma de los Autores
 
-Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante nuestra _Firma Digital_:
+Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante nuestra _Firma Digital_ del texto del _Preámbulo Constitucional_:
 
 * santi.eth: [ciudad], [fecha larga], [firma digital]
 * drlorente97.eth:
@@ -231,10 +231,6 @@ Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante
 * chuygarcia.eth:
 * lauraleticialopez.eth:
 * jocha.eth:
-
-> La recogida de firma se realizará siguiendo el formato siguiente: "autor: ciudad, fecha larga, firma digital"\
-> Texto a firmar: Líneas de 29 a 157 que contien los Artículos y las Disposiciones del texto constitucional\
-> Hash Keccak-256:
 
 ## Ratificación
 
