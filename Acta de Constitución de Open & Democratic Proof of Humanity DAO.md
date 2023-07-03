@@ -223,9 +223,9 @@ Nosotros los Humanos Registrados de la Organización Autónoma Descentralizada O
 
 ## Firma de los Autores
 
-Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante nuestra _Firma Digital_ del texto del _Preámbulo Constitucional_:
+Los _Autores_ de este documento _Ratificamos_ el _Texto Constitucional_ mediante nuestra _Firma Digital_ del texto en la herramienta de gobernanza:
 
-* santi.eth: [ciudad], [fecha larga], [firma digital]
+* santi.eth: [ciudad], [fecha larga]
 * drlorente97.eth:
 * ludoviko.eth:
 * chuygarcia.eth:
